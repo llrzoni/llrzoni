@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome/Usuário do GitHub]!
+# 👋 Olá, eu sou Lucas Lorenzoni!
 
 Sou um desenvolvedor apaixonado por tecnologia, especializado em **Java** e construção de soluções robustas e escaláveis.
 
